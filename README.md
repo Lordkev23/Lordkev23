@@ -12,7 +12,7 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-My name is Kevin, I'm 28 years old and I live in Lima, Peru. I'm a Full-Stack developer passionate about technology, photography and books.
+### My name is Kevin, I'm 28 years old and I live in Lima, Peru. I'm a Full-Stack developer passionate about technology, photography and books.
 🌱 My goal is to apply my skills and knowledge to solve problems and improve people's lives through innovative and efficient applications.
 
 🐶📱 I gained valuable experience in mobile app development using react native, team collaboration and the Scrum process as part of a team working on a mobile app for a pet adoption NGO using the Scrum methodology.
