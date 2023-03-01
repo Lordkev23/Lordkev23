@@ -23,12 +23,16 @@
 
 📷 Also have experience in other areas such as audiovisual producer, seller and I have participated in a small programming project in which a robotic arm was used.  
   
+  
 You can contact me by:
-🌟 e-mail: kevdaviman.23@gmail.com
+
+- 🌟 e-mail: kevdaviman.23@gmail.com
 
 And you can watch my work at:
-🔥 LinkedIn: https://www.linkedin.com/in/kevin-villanueva-manrique-030653255/
-⚡ Portfolio: http://my-portfolio-react-ivory.vercel.app
+
+- 🔥 LinkedIn: https://www.linkedin.com/in/kevin-villanueva-manrique-030653255/
+
+- ⚡ Portfolio: http://my-portfolio-react-ivory.vercel.app
 
 <br/>  
 
